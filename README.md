@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Shah</h1>
 <h3 align="center">A Computer Engineering Student</h3>
 
-- 👋 Hi, I’m Parth Shah, **a Computer Engineering student at Dr. D. Y. Patil University, Pune.**
+- 👋 Hi, I’m Parth Shah, **a Computer Engineering student at Dr. D. Y. Patil Collge of Engineering, Pune.**
 
 - 💻 Currently enhancing my skills in **C++, Python, and JAVA, while exploring areas like Artificial Intelligence and Machine Learning.**
 
