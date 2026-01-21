@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parth Shah</h1>
 
-- 👨🏻‍💻 **A Computer Engineering student at Dr. D. Y. Patil Collge of Engineering Akurdi, Pune.**
+- 👨🏻‍💻 **A Computer Engineering student at Dr. D. Y. Patil College of Engineering Akurdi, Pune.**
 
 - 💻 Currently enhancing my skills in **C++, Python, and JAVA, while exploring areas like Artificial Intelligence and Machine Learning.**
 
