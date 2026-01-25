@@ -8,7 +8,7 @@
 
 - 🌱 Always learning and open to **collaborating on exciting projects.**
 
-- 📫 How to reach me **reachoutparthshah@gmail.com.**
+- 📫 How to reach me **theparthshah2005@gmail.com.**
 
 - ⚡ Fun fact : **I can spend hours debugging code, but still get confused by basic wiring diagrams!**
 
