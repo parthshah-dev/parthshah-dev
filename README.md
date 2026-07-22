@@ -17,7 +17,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=dev.to&logoColor=C77DFF&border_color=7B2CBF" /></a>
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C77DFF" /></a>
   <a href="mailto:theparthshah2005@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C77DFF" /></a>
-  <a href="https://github.com/parthshah2005"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C77DFF" /></a>
 </div>
 
 <div align="center">
@@ -31,12 +30,12 @@
 
 ## 2. About Me
 
-**Software Engineer** with experience in building production-ready backends and full-stack applications[cite: 1]. Currently pursuing a Bachelor of Engineering in Computer Engineering at D. Y. Patil College of Engineering, Akurdi[cite: 1]. 
+**Software Engineer** with experience in building production-ready backends and full-stack applications. Currently pursuing a Bachelor of Engineering in Computer Engineering at D. Y. Patil College of Engineering, Akurdi. 
 
-- ⚙️ **Software Engineering:** Focused on delivering secure, scalable backends using Java and Spring Boot[cite: 1].
-- 🧠 **AI Integration:** Experienced in implementing Google Gemini AI for safety filtering and validation[cite: 1].
-- 🌐 **Full Stack Development:** Skilled in developing monorepo applications integrating React 19 and Tailwind CSS with Spring Boot backends[cite: 1].
-- 🚀 **Product Mindset:** Proficient in automating workflows, such as email scheduling and real-time operations dashboards[cite: 1].
+- ⚙️ **Software Engineering:** Focused on delivering secure, scalable backends using Java and Spring Boot.
+- 🧠 **AI Integration:** Experienced in implementing Google Gemini AI for safety filtering and validation.
+- 🌐 **Full Stack Development:** Skilled in developing monorepo applications integrating React 19 and Tailwind CSS with Spring Boot backends.
+- 🚀 **Product Mindset:** Proficient in automating workflows, such as email scheduling and real-time operations dashboards.
 - 🤝 **Open To:** Java Developer and Full Stack Engineering roles.
 
 ---
@@ -65,7 +64,7 @@
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **AI Integration** | Applied | Implemented Google Gemini AI as a safety filter to validate destination URLs and block malicious redirects with a 100% detection rate[cite: 1]. |
+| **AI Integration** | Applied | Implemented Google Gemini AI as a safety filter to validate destination URLs and block malicious redirects with a 100% detection rate. |
 
 ---
 
@@ -75,36 +74,36 @@
 <summary><b>LinkShield - Smart AI-Secured URL Shortener & Analytics Engine</b></summary>
 <br>
 
-Engineered URL shortening and custom alias creation for 10,000+ links by architecting a backend with relational schemas modeled using Hibernate and PostgreSQL[cite: 1].
+Engineered URL shortening and custom alias creation for 10,000+ links by architecting a backend with relational schemas modeled using Hibernate and PostgreSQL.
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Java 25, Spring Boot 4.1, PostgreSQL, Redis, Google Gemini AI, Google ZXing[cite: 1] |
-| **Scale** | Created for 10,000+ links[cite: 1] |
-| **Performance** | In-memory QR code generation service using Google ZXing library renders PNG images in under 50ms[cite: 1] |
-| **Security** | Blocked malicious redirects and phishing attempts with a 100% detection rate using Google Gemini AI[cite: 1] |
-| **Impact** | Delivered dynamic link-sharing options with zero server-side disk storage overhead[cite: 1] |
+| **Stack** | Java 25, Spring Boot 4.1, PostgreSQL, Redis, Google Gemini AI, Google ZXing |
+| **Scale** | Created for 10,000+ links |
+| **Performance** | In-memory QR code generation service using Google ZXing library renders PNG images in under 50ms |
+| **Security** | Blocked malicious redirects and phishing attempts with a 100% detection rate using Google Gemini AI |
+| **Impact** | Delivered dynamic link-sharing options with zero server-side disk storage overhead |
 | **Repository** | [View Source Code](#) \| [Live Deployment](#) |
 
-**Professional Explanation:** Architected a Spring Boot 4.1 backend integrated with PostgreSQL and Redis[cite: 1]. Applied Google Gemini AI to secure URL destinations before generating short codes[cite: 1].
+**Professional Explanation:** Architected a Spring Boot 4.1 backend integrated with PostgreSQL and Redis. Applied Google Gemini AI to secure URL destinations before generating short codes.
 </details>
 
 <details>
 <summary><b>HostelEase - Smart PG & Hostel Operations Suite</b></summary>
 <br>
 
-Streamlined room allocation and rent tracking for 100+ tenants by architecting a full-stack React 19 and Spring Boot 3.5 monorepo[cite: 1].
+Streamlined room allocation and rent tracking for 100+ tenants by architecting a full-stack React 19 and Spring Boot 3.5 monorepo.
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Java 25, Spring Boot 3.5, Spring Security, MySQL, React 19, Tailwind CSS v4[cite: 1] |
-| **Scale** | Managed room allocation and tracking for 100+ tenants[cite: 1] |
-| **Performance** | Implemented Spring Scheduled jobs integrated with the Brevo API[cite: 1] |
-| **Security** | Enforced secure, role-based access across admin and tenant tiers implementing stateless Spring Security, JWT authentication, and RBAC[cite: 1] |
-| **Impact** | Automated monthly rent-reminder emails and delivered real-time occupancy insights via an interactive Recharts dashboard[cite: 1] |
+| **Stack** | Java 25, Spring Boot 3.5, Spring Security, MySQL, React 19, Tailwind CSS v4 |
+| **Scale** | Managed room allocation and tracking for 100+ tenants |
+| **Performance** | Implemented Spring Scheduled jobs integrated with the Brevo API |
+| **Security** | Enforced secure, role-based access across admin and tenant tiers implementing stateless Spring Security, JWT authentication, and RBAC |
+| **Impact** | Automated monthly rent-reminder emails and delivered real-time occupancy insights via an interactive Recharts dashboard |
 | **Repository** | [View Source Code](#) \| [Live Deployment](#) |
 
-**Professional Explanation:** Designed relational schemas using Hibernate and MySQL[cite: 1]. Secured endpoints utilizing stateless JWT authentication and custom Axios interceptors for automatic token handling[cite: 1].
+**Professional Explanation:** Designed relational schemas using Hibernate and MySQL. Secured endpoints utilizing stateless JWT authentication and custom Axios interceptors for automatic token handling.
 </details>
 
 ---
@@ -112,18 +111,18 @@ Streamlined room allocation and rent tracking for 100+ tenants by architecting a
 ## 6. Experience
 
 **Java Developer Intern**  
-*Hackveda Solutions Pvt. Ltd.* | Remote | Jan 2026 - Feb 2026[cite: 1]
+*Hackveda Solutions Pvt. Ltd.* | Remote | Jan 2026 - Feb 2026
 
 **Professional Description:**  
-Focused on architecting a secure backend service for a finance platform[cite: 1].
+Focused on architecting a secure backend service for a finance platform.
 
 **Scope of Work:**
-- Delivered a secure, production-ready backend exposing 15+ stateless RESTful APIs[cite: 1].
-- Architected a Spring Boot 3 service layered with Spring Security, JWT authentication, and BCrypt hashing on PostgreSQL and Render[cite: 1].
-- Automated 2 background workflows for expense summaries and account reminders using Spring `@Scheduled` cron jobs[cite: 1].
-- Integrated the Brevo SMTP API to eliminate manual daily follow-ups[cite: 1].
+- Delivered a secure, production-ready backend exposing 15+ stateless RESTful APIs.
+- Architected a Spring Boot 3 service layered with Spring Security, JWT authentication, and BCrypt hashing on PostgreSQL and Render.
+- Automated 2 background workflows for expense summaries and account reminders using Spring `@Scheduled` cron jobs.
+- Integrated the Brevo SMTP API to eliminate manual daily follow-ups.
 
-**Skills tags:** `Java` `Spring Boot` `Spring Security` `PostgreSQL` `REST APIs` `JWT` `Render` `Brevo SMTP`[cite: 1]
+**Skills tags:** `Java` `Spring Boot` `Spring Security` `PostgreSQL` `REST APIs` `JWT` `Render` `Brevo SMTP`
 
 ---
 
@@ -131,8 +130,8 @@ Focused on architecting a secure backend service for a finance platform[cite: 1]
 
 | Recognition | Details |
 | :---: | :--- |
-| 🏆 **Academic Excellence Award** | Recognized as Diploma Topper for three consecutive academic years[cite: 1]. |
-| 🏅 **Vice President, CESA** | Led technical and student engagement activities during diploma[cite: 1]. |
+| 🏆 **Academic Excellence Award** | Recognized as Diploma Topper for three consecutive academic years. |
+| 🏅 **Vice President, CESA** | Led technical and student engagement activities during diploma. |
 
 ---
 
@@ -177,15 +176,7 @@ Focused on architecting a secure backend service for a finance platform[cite: 1]
 
 ---
 
-## 13. Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/parthshah2005/parthshah2005/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
----
-
-## 14. Current Focus
+## 13. Current Focus
 
 ```yaml
 Current_Focus:
