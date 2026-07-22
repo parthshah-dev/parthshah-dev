@@ -14,8 +14,8 @@
 
 <div align="center">
   <br />
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=dev.to&logoColor=C77DFF&border_color=7B2CBF" /></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C77DFF" /></a>
+  <a href="https://parthnikhilshah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=dev.to&logoColor=C77DFF&border_color=7B2CBF" /></a>
+  <a href="https://linkedin.com/in/parthshah2005"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C77DFF" /></a>
   <a href="mailto:theparthshah2005@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C77DFF" /></a>
 </div>
 
@@ -135,13 +135,7 @@ Focused on architecting a secure backend service for a finance platform.
 
 ---
 
-## 8. Certifications
-
-
-
----
-
-## 9. Coding Profiles
+## 8. Coding Profiles
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-190+_Problems_Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=C77DFF&border_color=7B2CBF" /></a>
@@ -149,18 +143,18 @@ Focused on architecting a secure backend service for a finance platform.
 
 ---
 
-## 10. GitHub Analytics
+## 9. GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthshah2005&show_icons=true&hide_border=true&title_color=C77DFF&text_color=ffffff&icon_color=9D4EDD&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthshah2005&theme=dark&hide_border=true&background=0D1117&ring=7B2CBF&fire=C77DFF&currStreakNum=ffffff&currStreakLabel=9D4EDD&sideNums=ffffff&sideLabels=ffffff&dates=9D4EDD" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parthshah-dev&show_icons=true&hide_border=true&title_color=C77DFF&text_color=ffffff&icon_color=9D4EDD&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthshah-dev&theme=dark&hide_border=true&background=0D1117&ring=7B2CBF&fire=C77DFF&currStreakNum=ffffff&currStreakLabel=9D4EDD&sideNums=ffffff&sideLabels=ffffff&dates=9D4EDD" width="48%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthshah2005&layout=compact&hide_border=true&title_color=C77DFF&text_color=ffffff&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthshah-dev&layout=compact&hide_border=true&title_color=C77DFF&text_color=ffffff&bg_color=0D1117" width="48%" />
 </div>
 
 ---
 
-## 11. GitHub Trophies
+## 10. GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=parthshah2005&theme=radical&row=1&column=7&no-frame=true&no-bg=true" />
@@ -168,7 +162,7 @@ Focused on architecting a secure backend service for a finance platform.
 
 ---
 
-## 12. Contribution Activity
+## 11. Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthshah2005&bg_color=0D1117&color=C77DFF&line=7B2CBF&point=ffffff&hide_border=true" width="100%" />
@@ -176,7 +170,7 @@ Focused on architecting a secure backend service for a finance platform.
 
 ---
 
-## 13. Current Focus
+## 12. Current Focus
 
 ```yaml
 Current_Focus:
