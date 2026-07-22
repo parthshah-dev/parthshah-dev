@@ -21,9 +21,9 @@
 
 <div align="center">
   <br />
-  <img src="https://komarev.com/ghpvc/?username=parthshah2005&color=7B2CBF&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/parthshah2005?color=9D4EDD&style=for-the-badge&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/parthshah2005?color=C77DFF&style=for-the-badge&label=STARS" />
+  <img src="https://komarev.com/ghpvc/?username=parthshah-dev&color=7B2CBF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/parthshah-dev?color=9D4EDD&style=for-the-badge&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/parthshah-dev?color=C77DFF&style=for-the-badge&label=STARS" />
 </div>
 
 ---
@@ -138,7 +138,7 @@ Focused on architecting a secure backend service for a finance platform.
 ## 8. Coding Profiles
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-190+_Problems_Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=C77DFF&border_color=7B2CBF" /></a>
+  <a href="https://leetcode.com/u/parthshah_dev/"><img src="https://img.shields.io/badge/LeetCode-190+_Problems_Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=C77DFF&border_color=7B2CBF" /></a>
 </div>
 
 ---
@@ -157,7 +157,7 @@ Focused on architecting a secure backend service for a finance platform.
 ## 10. GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parthshah2005&theme=radical&row=1&column=7&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=parthshah-dev&theme=radical&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
 ---
@@ -165,7 +165,7 @@ Focused on architecting a secure backend service for a finance platform.
 ## 11. Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthshah2005&bg_color=0D1117&color=C77DFF&line=7B2CBF&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthshah-dev&bg_color=0D1117&color=C77DFF&line=7B2CBF&point=ffffff&hide_border=true" width="100%" />
 </div>
 
 ---
