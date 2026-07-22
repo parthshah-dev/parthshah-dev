@@ -8,8 +8,6 @@
 
 - 🌱 Always learning and open to collaborating on exciting projects.
 
-- 👨‍💻 All of my projects are available at [parthshah14.vercel.app](parthshah14.vercel.app)
-
 - 📫 How to reach me **theparthshah2005@gmail.com.**
 
 - ⚡ Fun fact **I can spend hours debugging code, but still get confused by basic wiring diagrams!**
