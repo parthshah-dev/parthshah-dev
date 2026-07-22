@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Parth%20Shah&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20Integration%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=60&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Parth%20Shah&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Java%20Developer%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=60&fontColor=ffffff" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Enterprise+Software+Engineer;Spring+Boot+Architect;AI+Integration+Specialist;Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Java+Software+Engineer;Spring+Boot+Developer;Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/B.E.%20Computer%20Engineering-D.%20Y.%20Patil%20College%20of%20Engg-7B2CBF?style=for-the-badge&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Diploma%20CSE-R.%20C.%20Patel%20Polytechnic-9D4EDD?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Pune,%20MH,%20India-C77DFF?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Pune,%20MH-C77DFF?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
 
 <div align="center">
@@ -31,13 +31,13 @@
 
 ## 2. About Me
 
-**Enterprise Software Engineer** with a proven track record in architecting high-performance, resilient backends and integrating artificial intelligence into scalable web platforms. My engineering philosophy revolves around writing clean, modular, and testable code while maintaining a strong product-engineering mindset.
+**Software Engineer** with experience in building production-ready backends and full-stack applications[cite: 1]. Currently pursuing a Bachelor of Engineering in Computer Engineering at D. Y. Patil College of Engineering, Akurdi[cite: 1]. 
 
-- ⚙️ **Software Engineering:** Specialized in building production-ready architectures, stateless RESTful APIs, and optimizing database schemas.
-- 🧠 **AI/ML Expertise:** Proficient in leveraging LLMs and AI APIs (such as Google Gemini) to enforce security paradigms, data validation, and intelligent filtering within enterprise pipelines.
-- 🌐 **Full Stack Development:** Seamlessly integrating robust Java/Spring Boot backends with modern React.js frontend monorepos.
-- 🚀 **Product Mindset:** Dedicated to solving real-world friction—automating workflows, reducing latency overhead, and building platforms scaled for enterprise impact.
-- 🤝 **Open To:** Senior Software Engineering roles, Backend Architecture opportunities, and Open Source collaborations in the AI & Enterprise Java space.
+- ⚙️ **Software Engineering:** Focused on delivering secure, scalable backends using Java and Spring Boot[cite: 1].
+- 🧠 **AI Integration:** Experienced in implementing Google Gemini AI for safety filtering and validation[cite: 1].
+- 🌐 **Full Stack Development:** Skilled in developing monorepo applications integrating React 19 and Tailwind CSS with Spring Boot backends[cite: 1].
+- 🚀 **Product Mindset:** Proficient in automating workflows, such as email scheduling and real-time operations dashboards[cite: 1].
+- 🤝 **Open To:** Java Developer and Full Stack Engineering roles.
 
 ---
 
@@ -65,9 +65,7 @@
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Generative AI Integration** | Advanced | Deployed Google Gemini AI within server-side environments for real-time data validation and predictive analysis. |
-| **Cybersecurity / AI Filtering** | Advanced | Engineered malicious redirect and phishing detection algorithms utilizing AI models, achieving a 100% threat detection rate in production. |
-| **Algorithmic Automation** | Intermediate | Designed background cron workflows for intelligent data parsing, asynchronous reporting, and notification scheduling. |
+| **AI Integration** | Applied | Implemented Google Gemini AI as a safety filter to validate destination URLs and block malicious redirects with a 100% detection rate[cite: 1]. |
 
 ---
 
@@ -77,36 +75,36 @@
 <summary><b>LinkShield - Smart AI-Secured URL Shortener & Analytics Engine</b></summary>
 <br>
 
-Engineered a robust URL shortening and custom alias engine capable of processing 10,000+ links. The platform enforces stringent cybersecurity measures by evaluating destination URLs through AI models prior to link generation.
+Engineered URL shortening and custom alias creation for 10,000+ links by architecting a backend with relational schemas modeled using Hibernate and PostgreSQL[cite: 1].
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Java 25, Spring Boot 4.1, PostgreSQL, Redis, Google Gemini AI, Google ZXing |
-| **Scale** | Processed and managed 10,000+ concurrent link aliases. |
-| **Performance** | Implemented in-memory QR code generation rendering PNG images in < 50ms with zero disk I/O overhead. |
-| **Security** | 100% detection rate of malicious redirects and phishing attempts via Gemini AI safety filters. |
-| **Impact** | Drastically reduced storage overhead and ensured enterprise-grade link integrity. |
+| **Stack** | Java 25, Spring Boot 4.1, PostgreSQL, Redis, Google Gemini AI, Google ZXing[cite: 1] |
+| **Scale** | Created for 10,000+ links[cite: 1] |
+| **Performance** | In-memory QR code generation service using Google ZXing library renders PNG images in under 50ms[cite: 1] |
+| **Security** | Blocked malicious redirects and phishing attempts with a 100% detection rate using Google Gemini AI[cite: 1] |
+| **Impact** | Delivered dynamic link-sharing options with zero server-side disk storage overhead[cite: 1] |
 | **Repository** | [View Source Code](#) \| [Live Deployment](#) |
 
-**Professional Explanation:** Architected the backend using Spring Boot 4.1 with highly normalized relational schemas in PostgreSQL. Engineered the data flow to cache high-traffic routes via Redis, and integrated external ZXing libraries as an in-memory service for rapid, stateless artifact generation.
+**Professional Explanation:** Architected a Spring Boot 4.1 backend integrated with PostgreSQL and Redis[cite: 1]. Applied Google Gemini AI to secure URL destinations before generating short codes[cite: 1].
 </details>
 
 <details>
 <summary><b>HostelEase - Smart PG & Hostel Operations Suite</b></summary>
 <br>
 
-A comprehensive, full-stack React and Spring Boot monorepo designed to streamline room allocation, track rent, and deliver real-time occupancy insights for hostel administrators and tenants.
+Streamlined room allocation and rent tracking for 100+ tenants by architecting a full-stack React 19 and Spring Boot 3.5 monorepo[cite: 1].
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Java 25, Spring Boot 3.5, Spring Security, MySQL, React 19, Tailwind CSS v4 |
-| **Scale** | Actively handling room allocations and rent operations for 100+ concurrent tenants. |
-| **Performance** | Asynchronous @Scheduled Spring workflows for high-throughput email distribution via Brevo API. |
-| **Security** | Role-Based Access Control (RBAC) across 2 tiers with stateless JWT authentication and custom Axios interceptors. |
-| **Impact** | Eliminated manual rent tracking, automating monthly reminders and visualizing real-time financial metrics through an interactive Recharts dashboard. |
+| **Stack** | Java 25, Spring Boot 3.5, Spring Security, MySQL, React 19, Tailwind CSS v4[cite: 1] |
+| **Scale** | Managed room allocation and tracking for 100+ tenants[cite: 1] |
+| **Performance** | Implemented Spring Scheduled jobs integrated with the Brevo API[cite: 1] |
+| **Security** | Enforced secure, role-based access across admin and tenant tiers implementing stateless Spring Security, JWT authentication, and RBAC[cite: 1] |
+| **Impact** | Automated monthly rent-reminder emails and delivered real-time occupancy insights via an interactive Recharts dashboard[cite: 1] |
 | **Repository** | [View Source Code](#) \| [Live Deployment](#) |
 
-**Professional Explanation:** Designed the complete entity-relationship model using Hibernate ORM on a MySQL database. Enforced strict security paradigms via Spring Security, ensuring cross-origin requests and API endpoints are strictly authenticated and authorized based on user tier credentials.
+**Professional Explanation:** Designed relational schemas using Hibernate and MySQL[cite: 1]. Secured endpoints utilizing stateless JWT authentication and custom Axios interceptors for automatic token handling[cite: 1].
 </details>
 
 ---
@@ -114,19 +112,18 @@ A comprehensive, full-stack React and Spring Boot monorepo designed to streamlin
 ## 6. Experience
 
 **Java Developer Intern**  
-*Hackveda Solutions Pvt. Ltd.* | Remote | Jan 2026 - Feb 2026
+*Hackveda Solutions Pvt. Ltd.* | Remote | Jan 2026 - Feb 2026[cite: 1]
 
 **Professional Description:**  
-Spearheaded the backend architecture for an enterprise finance platform, focusing on security, stateless scalability, and automated background processing.
+Focused on architecting a secure backend service for a finance platform[cite: 1].
 
 **Scope of Work:**
-- Delivered a secure, production-ready backend by architecting a Spring Boot 3 service layered with Spring Security.
-- Exposed 15+ stateless RESTful APIs connected to a PostgreSQL database hosted on Render.
-- Implemented robust JWT authentication and BCrypt hashing protocols.
-- Eliminated manual operational friction by engineering background workflows utilizing Spring `@Scheduled` cron jobs.
-- Integrated the Brevo SMTP API to automate daily expense summaries and account reminders.
+- Delivered a secure, production-ready backend exposing 15+ stateless RESTful APIs[cite: 1].
+- Architected a Spring Boot 3 service layered with Spring Security, JWT authentication, and BCrypt hashing on PostgreSQL and Render[cite: 1].
+- Automated 2 background workflows for expense summaries and account reminders using Spring `@Scheduled` cron jobs[cite: 1].
+- Integrated the Brevo SMTP API to eliminate manual daily follow-ups[cite: 1].
 
-**Skills:** `Java` `Spring Boot` `Spring Security` `RESTful APIs` `PostgreSQL` `JWT` `Render` `SMTP Automation`
+**Skills tags:** `Java` `Spring Boot` `Spring Security` `PostgreSQL` `REST APIs` `JWT` `Render` `Brevo SMTP`[cite: 1]
 
 ---
 
@@ -134,28 +131,14 @@ Spearheaded the backend architecture for an enterprise finance platform, focusin
 
 | Recognition | Details |
 | :---: | :--- |
-| 🏆 **Academic Excellence Award** | Recognized as the Diploma Topper for three consecutive academic years (93.09% Overall). |
-| 🏅 **Vice President, CESA** | Led technical workshops, engineering symposiums, and student engagement initiatives. |
+| 🏆 **Academic Excellence Award** | Recognized as Diploma Topper for three consecutive academic years[cite: 1]. |
+| 🏅 **Vice President, CESA** | Led technical and student engagement activities during diploma[cite: 1]. |
 
 ---
 
 ## 8. Certifications
 
-<div align="center">
 
-### AWS
-<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-7B2CBF?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-Solutions_Architect-9D4EDD?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-### Oracle
-<img src="https://img.shields.io/badge/Oracle-Java_SE_11_Developer-7B2CBF?style=for-the-badge&logo=oracle&logoColor=white" />
-
-### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Data_Structures_&_Algorithms-9D4EDD?style=for-the-badge&logo=nptel&logoColor=white" /> <img src="https://img.shields.io/badge/NPTEL-Database_Management_Systems-7B2CBF?style=for-the-badge&logo=nptel&logoColor=white" />
-
-### Cisco
-<img src="https://img.shields.io/badge/Cisco-Networking_Academy_CCNA-9D4EDD?style=for-the-badge&logo=cisco&logoColor=white" />
-
-</div>
 
 ---
 
@@ -163,9 +146,6 @@ Spearheaded the backend architecture for an enterprise finance platform, focusin
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-190+_Problems_Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=C77DFF&border_color=7B2CBF" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Active_Solver-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=C77DFF&border_color=7B2CBF" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Star_Coder-0D1117?style=for-the-badge&logo=hackerrank&logoColor=C77DFF&border_color=7B2CBF" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Competitive_Programmer-0D1117?style=for-the-badge&logo=codechef&logoColor=C77DFF&border_color=7B2CBF" /></a>
 </div>
 
 ---
@@ -210,15 +190,14 @@ Spearheaded the backend architecture for an enterprise finance platform, focusin
 ```yaml
 Current_Focus:
   Learning:
-    - Distributed Systems Engineering
-    - Advanced Spring Cloud & Microservices
+    - Data Structures and Algorithms
+    - Advanced Spring Boot
   Building:
-    - High-throughput asynchronous backend architectures
-    - Enterprise-grade AI wrappers
+    - Secure RESTful APIs
+    - Full-Stack Applications
   Exploring:
-    - System Design & Scalability Patterns
-    - Cloud-native deployments with Kubernetes
+    - AI API Integrations
+    - Workflow Automation
   Open_To:
-    - Senior Software Engineer / SDE Roles
-    - Backend Architecture Contracting
-    - Open Source Core Contributions
+    - Java Developer Roles
+    - Full Stack Developer Roles
