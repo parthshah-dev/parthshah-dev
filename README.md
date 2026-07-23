@@ -83,7 +83,7 @@ Engineered URL shortening and custom alias creation for 10,000+ links by archite
 | **Performance** | In-memory QR code generation service using Google ZXing library renders PNG images in under 50ms |
 | **Security** | Blocked malicious redirects and phishing attempts with a 100% detection rate using Google Gemini AI |
 | **Impact** | Delivered dynamic link-sharing options with zero server-side disk storage overhead |
-| **Repository** | [View Source Code](#) \| [Live Deployment](#) |
+| **Repository** | [View Source Code](https://github.com/parthshah-dev/AI-SECURED-URL_SHORTNER) \| [Live Deployment](#) |
 
 **Professional Explanation:** Architected a Spring Boot 4.1 backend integrated with PostgreSQL and Redis. Applied Google Gemini AI to secure URL destinations before generating short codes.
 </details>
@@ -101,7 +101,7 @@ Streamlined room allocation and rent tracking for 100+ tenants by architecting a
 | **Performance** | Implemented Spring Scheduled jobs integrated with the Brevo API |
 | **Security** | Enforced secure, role-based access across admin and tenant tiers implementing stateless Spring Security, JWT authentication, and RBAC |
 | **Impact** | Automated monthly rent-reminder emails and delivered real-time occupancy insights via an interactive Recharts dashboard |
-| **Repository** | [View Source Code](#) \| [Live Deployment](#) |
+| **Repository** | [View Source Code](https://github.com/parthshah-dev/Hostel-Manager) \| [Live Deployment](https://hostelease-frontend.vercel.app/) |
 
 **Professional Explanation:** Designed relational schemas using Hibernate and MySQL. Secured endpoints utilizing stateless JWT authentication and custom Axios interceptors for automatic token handling.
 </details>
@@ -154,15 +154,7 @@ Focused on architecting a secure backend service for a finance platform.
 
 ---
 
-## 10. GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parthshah-dev&theme=radical&row=1&column=7&no-frame=true&no-bg=true" />
-</div>
-
----
-
-## 11. Contribution Activity
+## 10. Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthshah-dev&bg_color=0D1117&color=C77DFF&line=7B2CBF&point=ffffff&hide_border=true" width="100%" />
@@ -170,7 +162,7 @@ Focused on architecting a secure backend service for a finance platform.
 
 ---
 
-## 12. Current Focus
+## 11. Current Focus
 
 ```yaml
 Current_Focus:
