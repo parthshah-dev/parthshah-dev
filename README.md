@@ -14,7 +14,7 @@
 
 <div align="center">
   <br />
-  <a href="https://parthnikhilshah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=dev.to&logoColor=C77DFF&border_color=7B2CBF" /></a>
+  <!-- <a href="https://parthnikhilshah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=dev.to&logoColor=C77DFF&border_color=7B2CBF" /></a> -->
   <a href="https://linkedin.com/in/parthshah2005"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C77DFF" /></a>
   <a href="mailto:theparthshah2005@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C77DFF" /></a>
 </div>
