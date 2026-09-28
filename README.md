@@ -14,6 +14,7 @@
 
 <div align="center">
   <br />
+
   <a href="https://parthnikhilshah.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=dev.to&logoColor=C77DFF&border_color=7B2CBF" />
   </a>
@@ -29,8 +30,11 @@
 
 <div align="center">
   <br />
+
   <img src="https://komarev.com/ghpvc/?username=parthshah-dev&color=7B2CBF&style=for-the-badge&label=PROFILE+VIEWS" />
+
   <img src="https://img.shields.io/github/followers/parthshah-dev?color=9D4EDD&style=for-the-badge&label=FOLLOWERS" />
+
   <img src="https://img.shields.io/github/stars/parthshah-dev?color=C77DFF&style=for-the-badge&label=STARS" />
 </div>
 
@@ -53,15 +57,19 @@
 <div align="center">
 
 ### Languages
+
 <img src="https://skillicons.dev/icons?i=java,cpp,py,js" />
 
 ### Frontend
+
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
 ### Backend & Databases
+
 <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,postgres,redis" />
 
 ### Cloud, DevOps & Tooling
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,maven,idea,vercel" />
 
 </div>
@@ -80,6 +88,7 @@
 
 <details>
 <summary><b>LinkShield - Smart AI-Secured URL Shortener & Analytics Engine</b></summary>
+
 <br>
 
 Engineered URL shortening and custom alias creation for 10,000+ links by architecting a backend with relational schemas modeled using Hibernate and PostgreSQL.
@@ -94,10 +103,14 @@ Engineered URL shortening and custom alias creation for 10,000+ links by archite
 | **Repository** | [View Source Code](https://github.com/parthshah-dev/AI-SECURED-URL_SHORTNER) \| [Live Deployment](#) |
 
 **Professional Explanation:** Architected a Spring Boot 4.1 backend integrated with PostgreSQL and Redis. Applied Google Gemini AI to secure URL destinations before generating short codes.
+
 </details>
+
+<br>
 
 <details>
 <summary><b>HostelEase - Smart PG & Hostel Operations Suite</b></summary>
+
 <br>
 
 Streamlined room allocation and rent tracking for 100+ tenants by architecting a full-stack React 19 and Spring Boot 3.5 monorepo.
@@ -112,6 +125,7 @@ Streamlined room allocation and rent tracking for 100+ tenants by architecting a
 | **Repository** | [View Source Code](https://github.com/parthshah-dev/Hostel-Manager) \| [Live Deployment](https://hostelease-frontend.vercel.app/) |
 
 **Professional Explanation:** Designed relational schemas using Hibernate and MySQL. Secured endpoints utilizing stateless JWT authentication and custom Axios interceptors for automatic token handling.
+
 </details>
 
 ---
@@ -125,12 +139,14 @@ Streamlined room allocation and rent tracking for 100+ tenants by architecting a
 Focused on architecting a secure backend service for a finance platform.
 
 **Scope of Work:**
+
 - Delivered a secure, production-ready backend exposing 15+ stateless RESTful APIs.
 - Architected a Spring Boot 3 service layered with Spring Security, JWT authentication, and BCrypt hashing on PostgreSQL and Render.
 - Automated 2 background workflows for expense summaries and account reminders using Spring `@Scheduled` cron jobs.
 - Integrated the Brevo SMTP API to eliminate manual daily follow-ups.
 
-**Skills tags:** `Java` `Spring Boot` `Spring Security` `PostgreSQL` `REST APIs` `JWT` `Render` `Brevo SMTP`
+**Skills tags:**  
+`Java` `Spring Boot` `Spring Security` `PostgreSQL` `REST APIs` `JWT` `Render` `Brevo SMTP`
 
 ---
 
@@ -147,9 +163,9 @@ Focused on architecting a secure backend service for a finance platform.
 
 <div align="center">
 
-<!-- REPLACE YOUR_LEETCODE_USERNAME WITH YOUR ACTUAL LEETCODE USERNAME -->
+<!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username -->
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)](https://leetcode.com/parthshah-dev/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)](https://leetcode.com/u/parthshah_dev/)
 
 </div>
 
@@ -158,13 +174,24 @@ Focused on architecting a secure backend service for a finance platform.
 ## 9. GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthshah-dev&show_icons=true&hide_border=true&title_color=C77DFF&text_color=ffffff&icon_color=9D4EDD&bg_color=0D1117" width="48%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthshah-dev&theme=dark&hide_border=true&background=0D1117&ring=7B2CBF&fire=C77DFF&currStreakNum=ffffff&currStreakLabel=9D4EDD&sideNums=ffffff&sideLabels=ffffff&dates=9D4EDD" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=parthshah-dev&show_icons=true&hide_border=true&title_color=C77DFF&text_color=ffffff&icon_color=9D4EDD&bg_color=0D1117"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthshah-dev&layout=compact&hide_border=true&title_color=C77DFF&text_color=ffffff&bg_color=0D1117"
+    width="48%"
+  />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthshah-dev&layout=compact&hide_border=true&title_color=C77DFF&text_color=ffffff&bg_color=0D1117" width="48%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=parthshah-dev&bg_color=0D1117&color=C77DFF&line=7B2CBF&point=ffffff&hide_border=true"
+    width="100%"
+  />
+
 </div>
 
 ---
