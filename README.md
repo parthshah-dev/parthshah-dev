@@ -149,7 +149,7 @@ Focused on architecting a secure backend service for a finance platform.
 
 <!-- REPLACE YOUR_LEETCODE_USERNAME WITH YOUR ACTUAL LEETCODE USERNAME -->
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)](https://leetcode.com/parthshah-dev/)
 
 </div>
 
