@@ -18,31 +18,13 @@
 ## 9. GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthshah-dev&show_icons=true&hide_border=true&title_color=C77DFF&text_color=ffffff&icon_color=9D4EDD&bg_color=0D1117" width="48%" />
 
-<a href="https://github.com/parthshah-dev">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=parthshah-dev&show_icons=true&hide_border=true&title_color=C77DFF&text_color=ffffff&icon_color=9D4EDD&bg_color=0D1117"
-    alt="GitHub Stats"
-  />
-</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthshah-dev&theme=dark&hide_border=true&background=0D1117&ring=7B2CBF&fire=C77DFF&currStreakNum=ffffff&currStreakLabel=9D4EDD&sideNums=ffffff&sideLabels=ffffff&dates=9D4EDD" width="48%" />
 
-<br/><br/>
+  <br/><br/>
 
-<a href="https://github.com/parthshah-dev">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthshah-dev&layout=compact&hide_border=true&title_color=C77DFF&text_color=ffffff&bg_color=0D1117"
-    alt="Top Languages"
-  />
-</a>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=parthshah-dev&bg_color=0D1117&color=C77DFF&line=7B2CBF&point=ffffff&hide_border=true"
-  alt="GitHub Activity Graph"
-  width="100%"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthshah-dev&layout=compact&hide_border=true&title_color=C77DFF&text_color=ffffff&bg_color=0D1117" width="48%" />
 </div>
 
 ---
